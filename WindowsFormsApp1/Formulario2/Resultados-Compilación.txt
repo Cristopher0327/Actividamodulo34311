@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 9:34 p. m....
+1>------ Operación Compilar iniciada: Proyecto: Formulario 2, configuración: Debug Any CPU ------
+1>  Formulario 2 -> C:\Users\Jesus Alberto Lebron\OneDrive\Documentos\GitHub\Unidad-3.-Actividad-Pr-ctica-1\Formulario 2\Formulario 2\bin\Debug\Formulario 3.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 9:34 p. m. y tardó 01.796 segundos ==========
